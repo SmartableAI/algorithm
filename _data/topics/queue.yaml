@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: queue
+name: Queue
+shortname: Queue
+parent: Algorithm
+keywords:
+  - queue
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/queue.jpg
+services:
+  news: https://smartableai.github.io/algorithm/api/news/queue/
+  learning: https://smartableai.github.io/algorithm/api/learning/queue/

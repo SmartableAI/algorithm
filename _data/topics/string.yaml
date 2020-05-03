@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: string
+name: String
+shortname: String
+parent: Algorithm
+keywords:
+  - string
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/string.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/string/
+  learning: https://smartableai.github.io/algorithm/api/learning/string/

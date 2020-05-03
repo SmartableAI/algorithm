@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: backtracing
+name: Backtracing
+shortname: Backtracing
+parent: Algorithm
+keywords:
+  - backtracing
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/backtracing.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/backtracing/
+  learning: https://smartableai.github.io/algorithm/api/learning/backtracing/

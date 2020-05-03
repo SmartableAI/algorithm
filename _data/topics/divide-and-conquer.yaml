@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: divide-and-conquer
+name: Divide and Conquer
+shortname: Divide and Conquer
+parent: Algorithm
+keywords:
+  - blockchain
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/divide-and-conquer.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/divide-and-conquer/
+  learning: https://smartableai.github.io/algorithm/api/learning/divide-and-conquer/

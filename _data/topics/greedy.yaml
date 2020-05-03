@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: greedy
+name: Greedy Algorithms
+shortname: Greedy
+parent: Algorithm
+keywords:
+  - greedy
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/greedy.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/greedy/
+  learning: https://smartableai.github.io/algorithm/api/learning/greedy/

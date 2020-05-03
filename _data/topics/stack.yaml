@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: stack
+name: Stack
+shortname: Stack
+parent: Algorithm
+keywords:
+  - stack
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/stack.jpg
+services:
+  news: https://smartableai.github.io/algorithm/api/news/stack/
+  learning: https://smartableai.github.io/algorithm/api/news/stack/

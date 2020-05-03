@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: heap
+name: Heap
+shortname: Heap
+parent: Algorithm
+keywords:
+  - heap
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/heap.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/heap/
+  learning: https://smartableai.github.io/algorithm/api/learning/heap/

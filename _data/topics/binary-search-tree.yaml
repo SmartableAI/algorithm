@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: binary-search-tree
+name: Binary Search Tree
+shortname: Binary Search Tree
+parent: Algorithm
+keywords:
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/binary-search-tree.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/binary-search-tree/
+  learning: https://smartableai.github.io/algorithm/api/learning/binary-search-tree/

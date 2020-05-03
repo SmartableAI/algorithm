@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: array
+name: Array
+shortname: Array
+parent: Algorithm
+keywords:
+  - array
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/array.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/array/
+  learning: https://smartableai.github.io/algorithm/api/learning/array/

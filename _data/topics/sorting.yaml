@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: sorting
+name: Sorting Algorithms
+shortname: Sorting
+parent: Algorithm
+keywords:
+  - sorting
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/sorting.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/sorting/
+  problems: https://smartableai.github.io/algorithm/api/problems/sorting/

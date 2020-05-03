@@ -1,0 +1,10 @@
+taxonomy: topic
+_id: dynamic-programming
+name: Dynamic Programming
+parent: Algorithm
+keywords:
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/dynamic-programming.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/dynamic-programming/
+  problems: https://smartableai.github.io/algorithm/api/problems/dynamic-programming/

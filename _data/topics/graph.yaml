@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: graph
+name: Graph
+shortname: Graph
+parent: Algorithm
+keywords:
+  - graph
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/graph.jpg
+services:
+  problems: https://smartableai.github.io/algorithm/api/problems/graph/
+  learning: https://smartableai.github.io/algorithm/api/learning/graph/

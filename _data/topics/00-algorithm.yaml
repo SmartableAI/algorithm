@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: algorithm
+name: Algorithm
+keywords:
+  - azure
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/algorithm.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/
+  problems: https://smartableai.github.io/algorithm/api/problems/
+  newsletters: https://smartableai.github.io/algorithm/api/newsletters/

@@ -9,4 +9,4 @@ images:
   - https://smartableai.github.io/algorithm/assets/images/topics/sorting.jpg
 services:
   learning: https://smartableai.github.io/algorithm/api/learning/sorting/
-  problems: https://smartableai.github.io/algorithm/api/problems/sorting/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/sorting/

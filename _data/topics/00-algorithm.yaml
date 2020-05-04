@@ -7,5 +7,5 @@ images:
   - https://smartableai.github.io/algorithm/assets/images/topics/algorithm.jpg
 services:
   learning: https://smartableai.github.io/algorithm/api/learning/
-  problems: https://smartableai.github.io/algorithm/api/problems/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/
   newsletters: https://smartableai.github.io/algorithm/api/newsletters/

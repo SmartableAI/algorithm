@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/backtracing.jpg
 services:
-  problems: https://smartableai.github.io/algorithm/api/problems/backtracing/
   learning: https://smartableai.github.io/algorithm/api/learning/backtracing/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/backtracing/

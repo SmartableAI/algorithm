@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/queue.jpg
 services:
-  news: https://smartableai.github.io/algorithm/api/news/queue/
   learning: https://smartableai.github.io/algorithm/api/learning/queue/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/queue/

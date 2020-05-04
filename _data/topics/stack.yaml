@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/stack.jpg
 services:
-  news: https://smartableai.github.io/algorithm/api/news/stack/
-  learning: https://smartableai.github.io/algorithm/api/news/stack/
+  learning: https://smartableai.github.io/algorithm/api/learning/stack/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/stack/

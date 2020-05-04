@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/array.jpg
 services:
-  problems: https://smartableai.github.io/algorithm/api/problems/array/
   learning: https://smartableai.github.io/algorithm/api/learning/array/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/array/

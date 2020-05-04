@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/divide-and-conquer.jpg
 services:
-  problems: https://smartableai.github.io/algorithm/api/problems/divide-and-conquer/
   learning: https://smartableai.github.io/algorithm/api/learning/divide-and-conquer/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/divide-and-conquer/

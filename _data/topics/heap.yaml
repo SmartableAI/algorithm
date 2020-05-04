@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/heap.jpg
 services:
-  problems: https://smartableai.github.io/algorithm/api/problems/heap/
   learning: https://smartableai.github.io/algorithm/api/learning/heap/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/heap/

@@ -8,5 +8,5 @@ keywords:
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/string.jpg
 services:
-  problems: https://smartableai.github.io/algorithm/api/problems/string/
   learning: https://smartableai.github.io/algorithm/api/learning/string/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/string/

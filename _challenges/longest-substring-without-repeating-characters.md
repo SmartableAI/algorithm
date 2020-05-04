@@ -6,6 +6,8 @@ levels:
   - Intermediate
 
 topics:
+  - Algorithm
+  - Data Structure
   - String
   - Hash Table
 

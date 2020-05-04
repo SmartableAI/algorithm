@@ -1,15 +1,18 @@
 ---
 title: Valid Parentheses
-excerpt: Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+excerpt: "Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid."
 
 levels:
   - Beginner
 
 topics:
+  - Algorithm
+  - Data Structure
   - String
   - Stack
 
 related:
+  - generate-parentheses
 ---
 
 ## Problem

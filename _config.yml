@@ -45,14 +45,14 @@ default_learning_settings: &default_learning_settings
 
 
 #----------------------------------------------------------------------------------
-# Problem Settings
+# Challenge Settings
 #----------------------------------------------------------------------------------
 
-# Default settings of problems
-default_problem_settings: &default_problem_settings
+# Default settings of challenges
+default_challenge_settings: &default_challenge_settings
   layout: post
-  category: problem
-  permalink: /api/problems/:path/index.json
+  category: challenge
+  permalink: /api/challenges/:path/index.json
   deleted: false
 
 
@@ -82,7 +82,7 @@ collections:
     output: true
   learning:
     output: true
-  problems:
+  challenges:
     output: true
   newsletters:
     output: true
@@ -108,18 +108,18 @@ defaults:
       permalink: /api/learning/collections/:title/index.json
       type: collection
       support_paging: false
-  # _problems
+  # _challenges
   - scope:
       path: ""
-      type: problems
+      type: challenges
     values:
-      <<: *default_problem_settings
+      <<: *default_challenge_settings
   - scope:
-      path: "_problems/collections"
+      path: "_challenges/collections"
     values:
       layout: collection
-      category: problem
-      permalink: /api/problems/collections/:title/index.json
+      category: challenge
+      permalink: /api/challenges/collections/:title/index.json
       type: collection
       support_paging: false
   # _newsletters

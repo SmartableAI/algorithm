@@ -2,7 +2,7 @@ taxonomy: topic
 _id: stack
 name: Stack
 shortname: Stack
-parent: Algorithm
+parent: Data Structure
 keywords:
   - stack
 images:

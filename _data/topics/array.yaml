@@ -2,7 +2,7 @@ taxonomy: topic
 _id: array
 name: Array
 shortname: Array
-parent: Algorithm
+parent: Data Structure
 keywords:
   - array
 images:

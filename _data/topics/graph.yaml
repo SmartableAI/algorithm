@@ -2,7 +2,7 @@ taxonomy: topic
 _id: graph
 name: Graph
 shortname: Graph
-parent: Algorithm
+parent: Data Structure
 keywords:
   - graph
 images:

@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: data-structure
+name: Data Structure
+shortname: Data Structure
+parent: Algorithm
+keywords:
+  - data structure
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/data-structure.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/data-structure/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/data-structure/

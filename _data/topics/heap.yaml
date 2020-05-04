@@ -2,7 +2,7 @@ taxonomy: topic
 _id: heap
 name: Heap
 shortname: Heap
-parent: Algorithm
+parent: Data Structure
 keywords:
   - heap
 images:

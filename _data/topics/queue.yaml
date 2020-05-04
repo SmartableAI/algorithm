@@ -2,7 +2,7 @@ taxonomy: topic
 _id: queue
 name: Queue
 shortname: Queue
-parent: Algorithm
+parent: Data Structure
 keywords:
   - queue
 images:

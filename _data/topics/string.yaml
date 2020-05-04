@@ -2,7 +2,7 @@ taxonomy: topic
 _id: string
 name: String
 shortname: String
-parent: Algorithm
+parent: Data Structure
 keywords:
   - string
 images:

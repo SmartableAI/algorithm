@@ -8,9 +8,15 @@ levels:
 topics:
   - String
   - Hash Table
+
+related:
+  - longest-substring-with-at-most-two-distinct-characters
+  - longest-substring-with-at-most-k-distinct-characters
+  - subarrays-with-k-different-integers
 ---
 
-<problem>
+## Problem
+
 Given a string, find the length of the longest substring without repeating characters.
 
 Example 1:
@@ -37,9 +43,8 @@ Output: 3
 Explanation: The answer is "wke", with the length of 3. 
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
-</problem>
 
-<solutions>
+## Solution
 
 **Sliding Window**
 
@@ -112,5 +117,3 @@ var lengthOfLongestSubstring = function(s) {
     return max_len;
 };
 ```
-
-</solutions>

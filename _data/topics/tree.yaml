@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: tree
+name: Tree
+shortname: Tree
+parent: Data Structure
+keywords:
+  - tree
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/tree.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/tree/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/tree/

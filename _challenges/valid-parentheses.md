@@ -15,7 +15,7 @@ related:
   - generate-parentheses
 ---
 
-## Problem
+<div id="problem" class="tabcontent" markdown="1">
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
@@ -60,8 +60,8 @@ Input: "{[]}"
 Output: true
 ```
 
-<div class="accordion">Solutions</div>
-<div class="accordion-panel" markdown="1">
+</div>
+<div id="solutions" class="tabcontent" markdown="1">
 
 1. Initialize a stack S.
 2. Process each bracket of the expression one at a time.

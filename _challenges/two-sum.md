@@ -18,7 +18,7 @@ related:
 heat: 1000
 ---
 
-## Problem
+<div id="problem" class="tabcontent" markdown="1">
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -33,8 +33,8 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-<div class="accordion">Solutions</div>
-<div class="accordion-panel" markdown="1">
+</div>
+<div id="solutions" class="tabcontent" markdown="1">
 
 ### Solution 1: Two-pass Hash Table
 A simple implementation uses two iterations. In the first iteration, we add each element's value and its index to the table. Then, in the second iteration we check if each element's complement (target - nums[i]) exists in the table. Beware that the complement must not be nums[i] itself!

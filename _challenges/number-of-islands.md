@@ -17,11 +17,6 @@ related:
 heat: 988
 ---
 
-<div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'problem')" id="defaultOpen">Problem</button>
-  <button class="tablinks" onclick="openTab(event, 'solutions')">Solutions</button>
-</div>
-
 <div id="problem" class="tabcontent" markdown="1">
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.

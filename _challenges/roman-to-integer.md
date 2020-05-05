@@ -80,10 +80,8 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ---
 
-## Solutions
-
-<button class="accordion">Expand</button>
-<div class="accordion-panel">
+<div class="accordion">Solutions</div>
+<div class="accordion-panel" markdown="1">
 
 The simplest algorithm is to use a pointer to scan through the string, at each step deciding whether to add the current symbol and go forward 1 place, or add the difference of the next 2 symbols and go forward 2 places. Here is this algorithm in pseudocode.
 

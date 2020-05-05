@@ -48,10 +48,8 @@ Explanation: The answer is "wke", with the length of 3.
 
 ---
 
-## Solutions
-
-<button class="accordion">Expand</button>
-<div class="accordion-panel">
+<div class="accordion">Solutions</div>
+<div class="accordion-panel" markdown="1">
 
 **Sliding Window**
 

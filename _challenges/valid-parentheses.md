@@ -62,10 +62,8 @@ Output: true
 
 ---
 
-## Solutions
-
-<button class="accordion">Expand</button>
-<div class="accordion-panel">
+<div class="accordion">Solutions</div>
+<div class="accordion-panel" markdown="1">
 
 1. Initialize a stack S.
 2. Process each bracket of the expression one at a time.

@@ -57,6 +57,18 @@ default_challenge_settings: &default_challenge_settings
 
 
 #----------------------------------------------------------------------------------
+# Form Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of forms
+default_form_settings: &default_form_settings
+  layout: post
+  category: form
+  permalink: /api/forms/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
 # Newsletter Settings
 #----------------------------------------------------------------------------------
 
@@ -83,6 +95,8 @@ collections:
   learning:
     output: true
   challenges:
+    output: true
+  forms:
     output: true
   newsletters:
     output: true
@@ -120,6 +134,20 @@ defaults:
       layout: collection
       category: challenge
       permalink: /api/challenges/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _forms
+  - scope:
+      path: ""
+      type: forms
+    values:
+      <<: *default_form_settings
+  - scope:
+      path: "_forms/collections"
+    values:
+      layout: collection
+      category: form
+      permalink: /api/forms/collections/:title/index.json
       type: collection
       support_paging: false
   # _newsletters

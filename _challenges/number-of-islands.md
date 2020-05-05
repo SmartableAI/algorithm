@@ -34,9 +34,8 @@ return [0, 1].
 
 ---
 
-## Solutions
-
-<button class="accordion">Expand</button><div class="accordion-panel" markdown="1">
+<span class="accordion">Solutions</span>
+<div class="accordion-panel" markdown="1">
 
 ### Solution 1: Two-pass Hash Table
 A simple implementation uses two iterations. In the first iteration, we add each element's value and its index to the table. Then, in the second iteration we check if each element's complement (target - nums[i]) exists in the table. Beware that the complement must not be nums[i] itself!

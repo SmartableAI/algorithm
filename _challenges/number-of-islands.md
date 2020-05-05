@@ -34,7 +34,7 @@ return [0, 1].
 
 ---
 
-<span class="accordion">Solutions</span>
+<div class="accordion">Solutions</div>
 <div class="accordion-panel" markdown="1">
 
 ### Solution 1: Two-pass Hash Table

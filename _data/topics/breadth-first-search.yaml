@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: breadth-first-search
+name: Breadth-first Search
+shortname: Breadth-first Search
+parent: Algorithm
+keywords:
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/breadth-first-search.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/breadth-first-search/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/breadth-first-search/

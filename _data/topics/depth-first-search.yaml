@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: depth-first-search
+name: Depth-first Search
+shortname: Depth-first Search
+parent: Algorithm
+keywords:
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/depth-first-search.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/depth-first-search/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/depth-first-search/

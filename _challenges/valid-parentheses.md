@@ -60,8 +60,6 @@ Input: "{[]}"
 Output: true
 ```
 
----
-
 <div class="accordion">Solutions</div>
 <div class="accordion-panel" markdown="1">
 

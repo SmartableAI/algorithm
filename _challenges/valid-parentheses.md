@@ -60,7 +60,12 @@ Input: "{[]}"
 Output: true
 ```
 
+---
+
 ## Solutions
+
+<button class="accordion">Expand</button>
+<div class="accordion-panel">
 
 1. Initialize a stack S.
 2. Process each bracket of the expression one at a time.
@@ -159,3 +164,5 @@ class Solution(object):
 
 * Time complexity : O(n) because we simply traverse the given string one character at a time and push and pop operations on a stack take O(1) time.
 * Space complexity: O(n) as we push all opening brackets onto the stack and in the worst case, we will end up pushing all the brackets onto the stack. e.g. ((((((((((.
+
+</div>

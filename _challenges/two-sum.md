@@ -33,7 +33,12 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
+---
+
 ## Solutions
+
+<button class="accordion">Expand</button>
+<div class="accordion-panel">
 
 ### Solution 1: Two-pass Hash Table
 A simple implementation uses two iterations. In the first iteration, we add each element's value and its index to the table. Then, in the second iteration we check if each element's complement (target - nums[i]) exists in the table. Beware that the complement must not be nums[i] itself!
@@ -83,3 +88,5 @@ public int[] twoSum(int[] nums, int target) {
 
 * Time complexity : O(n). We traverse the list containing nn elements only once. Each look up in the table costs only O(1) time.
 * Space complexity : O(n). The extra space required depends on the number of items stored in the hash table, which stores at most nn elements.
+
+</div>

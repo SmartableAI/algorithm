@@ -1,5 +1,5 @@
 ---
-title: Longest Substring Without Repeating Characters
+title: Roman to Integer
 excerpt: "Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999."
 
 levels:
@@ -78,7 +78,12 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
+---
+
 ## Solutions
+
+<button class="accordion">Expand</button>
+<div class="accordion-panel">
 
 The simplest algorithm is to use a pointer to scan through the string, at each step deciding whether to add the current symbol and go forward 1 place, or add the difference of the next 2 symbols and go forward 2 places. Here is this algorithm in pseudocode.
 
@@ -180,3 +185,5 @@ class Solution:
 
 * Time complexity : O(1). As there is a finite set of roman numerals, the maximum number possible number can be 3999, which in roman numerals is MMMCMXCIX. As such the time complexity is O(1). If roman numerals had an arbitrary number of symbols, then the time complexity would be proportional to the length of the input, i.e. O(n). This is assuming that looking up the value of each symbol is O(1).
 * Space complexity : O(1). Because only a constant number of single-value variables are used, the space complexity is O(1).
+
+</div>

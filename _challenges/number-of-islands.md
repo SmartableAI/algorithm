@@ -10,10 +10,6 @@ topics:
   - Depth-first Search
   - Breadth-first Search
 
-companies:
-  - name: Amazon
-    times: 330
-
 related:
   - 3sum
   - 4sum

@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: linked-list
+name: Linked List
+shortname: Linked List
+parent: Data Structure
+keywords:
+  - linked list
+images:
+  - https://smartableai.github.io/algorithm/assets/images/topics/linked-list.jpg
+services:
+  learning: https://smartableai.github.io/algorithm/api/learning/linked-list/
+  challenges: https://smartableai.github.io/algorithm/api/challenges/linked-list/

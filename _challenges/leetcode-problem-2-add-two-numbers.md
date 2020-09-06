@@ -3,7 +3,7 @@ title: "LeetCode Problem 2: Add Two Numbers"
 excerpt: "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list."
 originalUrl: https://leetcode.com/problems/add-two-numbers/
 type: article
-heat: 50
+heat: 110
 
 provider:
   name: LeetCode

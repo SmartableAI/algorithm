@@ -4,11 +4,10 @@ excerpt: "The latest edition of the essential text and professional reference, w
 webUrl: https://www.amazon.com/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/
 type: book
 price: $106.30
-length: 
 ratings:
   count: 733
   average: 4.4
-heat: 733
+heat: 50
 
 provider:
   name: Amazon

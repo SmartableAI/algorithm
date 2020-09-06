@@ -1,0 +1,567 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/books/amazon-grokking-algorithms.md",
+      "title": "Grokking Algorithms",
+      "excerpt": "Grokking Algorithms is a friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Learning about algorithms doesn't have to be boring!",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-grokking-algorithms/index.json",
+      "webUrl": "https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/",
+      "ratings": {
+        "count": 238,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/91ZwLB+BipL._AC_UY218_.jpg",
+          "width": 238,
+          "height": 218,
+          "title": "Grokking Algorithms",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$40.34",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-algorithms-algorithms_4.md",
+      "title": "Algorithms: Algorithms_4",
+      "excerpt": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. ",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-algorithms-algorithms_4/index.json",
+      "webUrl": "https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/",
+      "ratings": {
+        "count": 293,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41SRhYah3AL._AC_UY218_.jpg",
+          "width": 175,
+          "height": 218,
+          "title": "Algorithms: Algorithms_4",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$61.03",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-cracking-the-coding-interview-189-programming-questions-and-solutions.md",
+      "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+      "excerpt": "Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-cracking-the-coding-interview-189-programming-questions-and-solutions/index.json",
+      "webUrl": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/",
+      "ratings": {
+        "count": 1825,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71jRvBEDNmL._AC_UY218_.jpg",
+          "width": 153,
+          "height": 218,
+          "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$26.99",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles.md",
+      "title": "Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles",
+      "excerpt": "This is a book that offers solutions to complex data structures and algorithms. There are multiple solutions for each problem and the book is coded in C/C++, it comes handy as an interview and exam guide for computer scientists.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles/index.json",
+      "webUrl": "https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N4OA309/",
+      "ratings": {
+        "count": 837,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81j-x6x7LTL._AC_UY218_.jpg",
+          "width": 116,
+          "height": 218,
+          "title": "Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$27.99",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-introduction-to-algorithms-the-mit-press.md",
+      "title": "Introduction to Algorithms (The MIT Press)",
+      "excerpt": "The latest edition of the essential text and professional reference, with substantial new material on such topics as vEB trees, multithreaded algorithms, dynamic programming, and edge-based flow.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-introduction-to-algorithms-the-mit-press/index.json",
+      "webUrl": "https://www.amazon.com/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/",
+      "ratings": {
+        "count": 733,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51fgDX37U7L._AC_UY218_.jpg",
+          "width": 194,
+          "height": 218,
+          "title": "Introduction to Algorithms (The MIT Press)",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$106.30",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-advanced-algorithms-and-complexity.md",
+      "title": "Advanced Algorithms and Complexity",
+      "excerpt": "Learn Advanced Algorithms and Complexity from University of California San Diego, National Research University Higher School of Economics. You've learned the basic algorithms now and are ready to step into the area of more complex problems and ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-advanced-algorithms-and-complexity/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-algorithms-and-complexity",
+      "length": "25 hours",
+      "ratings": {
+        "count": 410,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0f/6df730d9ae11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Advanced Algorithms and Complexity",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-algorithms-on-graphs.md",
+      "title": "Algorithms on Graphs",
+      "excerpt": "Learn Algorithms on Graphs from University of California San Diego, National Research University Higher School of Economics. If you have ever used a navigation service to find optimal route and estimate time to destination, you've used algorithms ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-algorithms-on-graphs/index.json",
+      "webUrl": "https://www.coursera.org/learn/algorithms-on-graphs",
+      "length": "55 hours",
+      "ratings": {
+        "count": 1417,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/17/149570d9ae11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Algorithms on Graphs",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-algorithms-part-i.md",
+      "title": "Algorithms, Part I",
+      "excerpt": "Learn Algorithms, Part I from Princeton University. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-algorithms-part-i/index.json",
+      "webUrl": "https://www.coursera.org/learn/algorithms-part1",
+      "length": "53 hours",
+      "ratings": {
+        "count": 6334,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Princeton University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e3/b971b05cfe11e89d97d1bd932bfd30/algs4partI-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Algorithms, Part I",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-algorithms-part-ii.md",
+      "title": "Algorithms, Part II",
+      "excerpt": "Learn Algorithms, Part II from Princeton University. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-algorithms-part-ii/index.json",
+      "webUrl": "https://www.coursera.org/learn/algorithms-part2",
+      "length": "58 hours",
+      "ratings": {
+        "count": 1068,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Princeton University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/b0ca105cfe11e8970eeb2a232d4fdc/algs4partI-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Algorithms, Part II",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-computer-science-algorithms-theory-and-machines.md",
+      "title": "Computer Science:  Algorithms, Theory, and Machines",
+      "excerpt": "Learn Computer Science:  Algorithms, Theory, and Machines from Princeton University. This course  introduces the broader discipline of computer science to people having basic familiarity with Java programming.  It covers the second half of our ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-computer-science-algorithms-theory-and-machines/index.json",
+      "webUrl": "https://www.coursera.org/learn/cs-algorithms-theory-machines",
+      "length": "16 hours",
+      "ratings": {
+        "count": 170,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Princeton University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/67/9b32e0140011e89140511cb73975a8/IntroCSlogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Computer Science:  Algorithms, Theory, and Machines",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-divide-and-conquer-sorting-and-searching-and-randomized-algorithms.md",
+      "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+      "excerpt": "Learn Divide and Conquer, Sorting and Searching, and Randomized Algorithms from Stanford University. The primary topics in this part of the specialization are: asymptotic (\"Big-oh\") notation, sorting and searching, divide and conquer (master ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-divide-and-conquer-sorting-and-searching-and-randomized-algorithms/index.json",
+      "webUrl": "https://www.coursera.org/learn/algorithms-divide-conquer",
+      "length": "13 hours",
+      "ratings": {
+        "count": 3687,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Stanford",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/algorithm/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/21/54dd30f05e11e59bf9d905b70dcbd9/cs161logo2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-greedy-algorithms-minimum-spanning-trees-and-dynamic-programming.md",
+      "title": "Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+      "excerpt": "Learn Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming from Stanford University. The primary topics in this part of the specialization are: greedy algorithms (scheduling, minimum spanning trees, clustering, Huffman codes) and ...",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/courses/coursera-greedy-algorithms-minimum-spanning-trees-and-dynamic-programming/index.json",
+      "webUrl": "https://www.coursera.org/learn/algorithms-greedy",
+      "length": "12 hours",
+      "ratings": {
+        "count": 973,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Stanford",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/algorithm/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera/topics/algo2/large-icon.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+          "isCached": false
+        }
+      ],
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "Algorithm"
+      ]
+    }
+  ]
+}

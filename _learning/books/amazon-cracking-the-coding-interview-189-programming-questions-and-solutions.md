@@ -4,11 +4,10 @@ excerpt: "Cracking the Coding Interview, 6th Edition is here to help you through
 webUrl: https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/
 type: book
 price: $26.99
-length: 
 ratings:
   count: 1825
   average: 4.6
-heat: 1825
+heat: 50
 
 provider:
   name: Amazon

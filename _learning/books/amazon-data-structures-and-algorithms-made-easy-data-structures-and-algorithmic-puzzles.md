@@ -4,11 +4,10 @@ excerpt: "This is a book that offers solutions to complex data structures and al
 webUrl: https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N4OA309/
 type: book
 price: $27.99
-length: 
 ratings:
   count: 837
   average: 4
-heat: 837
+heat: 50
 
 provider:
   name: Amazon

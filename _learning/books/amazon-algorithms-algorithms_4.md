@@ -4,11 +4,10 @@ excerpt: "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms
 webUrl: https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/
 type: book
 price: $61.03
-length: 
 ratings:
   count: 293
   average: 4.5
-heat: 293
+heat: 50
 
 provider:
   name: Amazon

@@ -4,11 +4,10 @@ excerpt: "Grokking Algorithms is a friendly guide that teaches you how to apply 
 webUrl: https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/
 type: book
 price: $40.34
-length: 
 ratings:
   count: 238
   average: 4.6
-heat: 238
+heat: 110
 
 provider:
   name: Amazon

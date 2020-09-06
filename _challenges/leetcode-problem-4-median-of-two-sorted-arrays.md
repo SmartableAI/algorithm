@@ -3,7 +3,7 @@ title: "LeetCode Problem 4: Median of Two Sorted Arrays"
 excerpt: "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays."
 originalUrl: https://leetcode.com/problems/median-of-two-sorted-arrays/
 type: article
-heat: 110
+heat: 50
 
 provider:
   name: LeetCode
@@ -20,7 +20,6 @@ topics:
   - Divide and Conquer
 
 ---
-
 <div><p>Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>m</code> and <code>n</code> respectively, return <strong>the median</strong> of the two sorted arrays.</p>
 
 <p><strong>Follow up:</strong> The overall run time complexity should be <code>O(log (m+n))</code>.</p>
@@ -69,3 +68,4 @@ topics:
 	<li><code>1 &lt;= m + n &lt;= 2000</code></li>
 </ul>
 </div>
+

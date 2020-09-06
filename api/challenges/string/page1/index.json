@@ -4,35 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_challenges/leetcode-problem-1-two-sum.md",
-      "title": "LeetCode Problem 1: Two Sum",
-      "excerpt": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
-      "sourceUrl": "https://smartableai.github.io/algorithm/api/challenges/leetcode-problem-1-two-sum/index.json",
-      "webUrl": "https://smartable.ai/apps/algorithm/challenge/leetcode-problem-1-two-sum/",
-      "originalUrl": "https://leetcode.com/problems/two-sum/",
-      "levels": [
-        "Beginner"
-      ],
-      "provider": {
-        "name": "LeetCode",
-        "domain": "leetcode.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/leetcode.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Array",
-        "Hash Table"
-      ],
-      "heat": 50,
-      "type": "article"
-    },
-    {
       "path": "_challenges/leetcode-problem-3-longest-substring-without-repeating-characters.md",
       "title": "LeetCode Problem 3: Longest Substring Without Repeating Characters",
       "excerpt": "Given a string s, find the length of the longest substring without repeating characters.",
@@ -61,6 +32,5 @@
       "heat": 50,
       "type": "article"
     }
-  ],
-  "nextPage": 2
+  ]
 }

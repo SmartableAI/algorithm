@@ -3,7 +3,7 @@ title: "LeetCode Problem 3: Longest Substring Without Repeating Characters"
 excerpt: "Given a string s, find the length of the longest substring without repeating characters."
 originalUrl: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 type: article
-heat: 110
+heat: 50
 
 provider:
   name: LeetCode
@@ -59,3 +59,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
 </div>
+

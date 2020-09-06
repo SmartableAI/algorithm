@@ -3,6 +3,7 @@ title: "LeetCode Problem 1: Two Sum"
 excerpt: "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target."
 originalUrl: https://leetcode.com/problems/two-sum/
 type: article
+heat: 50
 
 provider:
   name: LeetCode
@@ -14,12 +15,11 @@ provider:
 
 levels:
   - Beginner
-
-topics: 
+topics:
   - Array
   - Hash Table
----
 
+---
 <div><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
 <p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
@@ -56,3 +56,4 @@ topics:
 	<li><strong>Only one valid answer exists.</strong></li>
 </ul>
 </div>
+

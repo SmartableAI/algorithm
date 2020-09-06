@@ -1,0 +1,35 @@
+{
+  "title": "Challenges",
+  "path": "_challenges",
+  "page": 1,
+  "value": [
+    {
+      "path": "_challenges/leetcode-problem-2-add-two-numbers.md",
+      "title": "LeetCode Problem 2: Add Two Numbers",
+      "excerpt": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/challenges/leetcode-problem-2-add-two-numbers/index.json",
+      "webUrl": "https://smartable.ai/apps/algorithm/challenge/leetcode-problem-2-add-two-numbers/",
+      "originalUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "levels": [
+        "Intermediate"
+      ],
+      "provider": {
+        "name": "LeetCode",
+        "domain": "leetcode.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/leetcode.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Linked List"
+      ],
+      "heat": 50,
+      "type": "article"
+    }
+  ]
+}

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-1-two-sum/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-2-add-two-numbers/</loc>
     <lastmod>2020-08-31T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-4-median-of-two-sorted-arrays/</loc>
+    <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-1-two-sum/</loc>
     <lastmod>2020-08-31T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-3-longest-substring-without-repeating-characters/</loc>
+    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/algorithm/challenge/leetcode-problem-4-median-of-two-sorted-arrays/</loc>
     <lastmod>2020-08-31T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>

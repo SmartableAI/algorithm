@@ -16,6 +16,8 @@ provider:
 levels:
   - Advanced
 topics:
+  - Algorithm
+  - Data Structure
   - Array
   - Divide and Conquer
 

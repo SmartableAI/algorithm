@@ -16,6 +16,7 @@ provider:
 levels:
   - Beginner
 topics:
+  - Data Structure
   - Array
   - Hash Table
 

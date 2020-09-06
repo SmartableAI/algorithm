@@ -6,10 +6,4 @@ type: article
 
 topics:
   - Algorithm
-
-images:
-  - url: https://static.amazon.jobs/global_images/2/images/Jobs_thumbnailV2.jpg?1554491962
-    width: 1200
-    height: 630
-    title: "Amazon Referral Request Form"
 ---

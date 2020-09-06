@@ -26,6 +26,7 @@
         ]
       },
       "topics": [
+        "Data Structure",
         "Array",
         "Hash Table"
       ],
@@ -55,6 +56,7 @@
         ]
       },
       "topics": [
+        "Data Structure",
         "Linked List"
       ],
       "heat": 50,
@@ -83,6 +85,7 @@
         ]
       },
       "topics": [
+        "Data Structure",
         "Hash Table",
         "String"
       ],
@@ -112,6 +115,8 @@
         ]
       },
       "topics": [
+        "Algorithm",
+        "Data Structure",
         "Array",
         "Divide and Conquer"
       ],

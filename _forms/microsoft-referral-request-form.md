@@ -6,10 +6,4 @@ type: article
 
 topics:
   - Algorithm
-
-images:
-  - url: https://www.incimages.com/uploaded_files/image/970x450/getty_511699242_402099.jpg
-    width: 970
-    height: 450
-    title: "Microsoft Referral Request Form"
 ---

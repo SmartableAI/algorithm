@@ -34,6 +34,35 @@
       "type": "article"
     },
     {
+      "path": "_challenges/leetcode-problem-2-add-two-numbers.md",
+      "title": "LeetCode Problem 2: Add Two Numbers",
+      "excerpt": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/challenges/leetcode-problem-2-add-two-numbers/index.json",
+      "webUrl": "https://smartable.ai/apps/algorithm/challenge/leetcode-problem-2-add-two-numbers/",
+      "originalUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "levels": [
+        "Intermediate"
+      ],
+      "provider": {
+        "name": "LeetCode",
+        "domain": "leetcode.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/leetcode.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Data Structure",
+        "Linked List"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
       "path": "_challenges/leetcode-problem-3-longest-substring-without-repeating-characters.md",
       "title": "LeetCode Problem 3: Longest Substring Without Repeating Characters",
       "excerpt": "Given a string s, find the length of the longest substring without repeating characters.",
@@ -59,6 +88,37 @@
         "Data Structure",
         "Hash Table",
         "String"
+      ],
+      "heat": 50,
+      "type": "article"
+    },
+    {
+      "path": "_challenges/leetcode-problem-4-median-of-two-sorted-arrays.md",
+      "title": "LeetCode Problem 4: Median of Two Sorted Arrays",
+      "excerpt": "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/challenges/leetcode-problem-4-median-of-two-sorted-arrays/index.json",
+      "webUrl": "https://smartable.ai/apps/algorithm/challenge/leetcode-problem-4-median-of-two-sorted-arrays/",
+      "originalUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "levels": [
+        "Advanced"
+      ],
+      "provider": {
+        "name": "LeetCode",
+        "domain": "leetcode.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/leetcode.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Algorithm",
+        "Data Structure",
+        "Array",
+        "Divide and Conquer"
       ],
       "heat": 50,
       "type": "article"

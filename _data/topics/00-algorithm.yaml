@@ -2,7 +2,7 @@ taxonomy: topic
 _id: algorithm
 name: Algorithm
 keywords:
-  - azure
+  - algorithm
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/algorithm.jpg
 services:

@@ -5,6 +5,7 @@ shortname: Hash Table
 parent: Data Structure
 keywords:
   - hash table
+  - hashtable
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/hash-table.jpg
 services:

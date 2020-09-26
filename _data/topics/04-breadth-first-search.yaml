@@ -4,6 +4,9 @@ name: Breadth-first Search
 shortname: Breadth-first Search
 parent: Algorithm
 keywords:
+  - breadth-first search
+  - breadth first search
+  - bfs
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/breadth-first-search.jpg
 services:

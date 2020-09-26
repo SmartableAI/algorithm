@@ -4,6 +4,9 @@ name: Depth-first Search
 shortname: Depth-first Search
 parent: Algorithm
 keywords:
+  - depth-first search
+  - depth first search
+  - dfs
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/depth-first-search.jpg
 services:

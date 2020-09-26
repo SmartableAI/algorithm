@@ -5,6 +5,7 @@ shortname: Sorting
 parent: Algorithm
 keywords:
   - sorting
+  - sort
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/sorting.jpg
 services:

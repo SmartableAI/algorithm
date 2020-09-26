@@ -4,7 +4,7 @@ name: Divide and Conquer
 shortname: Divide and Conquer
 parent: Algorithm
 keywords:
-  - blockchain
+  - divide and conquer
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/divide-and-conquer.jpg
 services:

@@ -3,6 +3,7 @@ _id: dynamic-programming
 name: Dynamic Programming
 parent: Algorithm
 keywords:
+  - dynamic programming
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/dynamic-programming.jpg
 services:

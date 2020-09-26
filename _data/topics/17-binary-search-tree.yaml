@@ -4,6 +4,8 @@ name: Binary Search Tree
 shortname: Binary Search Tree
 parent: Algorithm
 keywords:
+  - binary search tree
+  - bst
 images:
   - https://smartableai.github.io/algorithm/assets/images/topics/binary-search-tree.jpg
 services:

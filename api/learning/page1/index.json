@@ -4,47 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/books/amazon-grokking-algorithms.md",
-      "title": "Grokking Algorithms",
-      "excerpt": "Grokking Algorithms is a friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Learning about algorithms doesn't have to be boring!",
-      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-grokking-algorithms/index.json",
-      "webUrl": "https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/",
-      "ratings": {
-        "count": 238,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91ZwLB+BipL._AC_UY218_.jpg",
-          "width": 238,
-          "height": 218,
-          "title": "Grokking Algorithms",
-          "isCached": false
-        }
-      ],
-      "type": "book",
-      "price": "$40.34",
-      "topics": [
-        "Algorithm"
-      ]
-    },
-    {
       "path": "_learning/books/amazon-algorithms-algorithms_4.md",
       "title": "Algorithms: Algorithms_4",
       "excerpt": "This fourth edition of Robert Sedgewick and Kevin Wayne’s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. ",
@@ -59,7 +18,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -100,7 +59,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -141,7 +100,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -168,6 +127,47 @@
       ]
     },
     {
+      "path": "_learning/books/amazon-grokking-algorithms.md",
+      "title": "Grokking Algorithms",
+      "excerpt": "Grokking Algorithms is a friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Learning about algorithms doesn't have to be boring!",
+      "sourceUrl": "https://smartableai.github.io/algorithm/api/learning/books/amazon-grokking-algorithms/index.json",
+      "webUrl": "https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/",
+      "ratings": {
+        "count": 238,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/91ZwLB+BipL._AC_UY218_.jpg",
+          "width": 238,
+          "height": 218,
+          "title": "Grokking Algorithms",
+          "isCached": false
+        }
+      ],
+      "type": "book",
+      "price": "$40.34",
+      "topics": [
+        "Algorithm"
+      ]
+    },
+    {
       "path": "_learning/books/amazon-introduction-to-algorithms-the-mit-press.md",
       "title": "Introduction to Algorithms (The MIT Press)",
       "excerpt": "The latest edition of the essential text and professional reference, with substantial new material on such topics as vEB trees, multithreaded algorithms, dynamic programming, and edge-based flow.",
@@ -182,7 +182,7 @@
         "domain": "amazon.com",
         "images": [
           {
-            "url": "/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/algorithm/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

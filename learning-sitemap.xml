@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.amazon.com/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.coursera.org/learn/cs-algorithms-theory-machines</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.coursera.org/learn/algorithms-part2</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <loc>https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.coursera.org/learn/algorithms-part1</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.coursera.org/learn/algorithms-divide-conquer</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.coursera.org/learn/algorithms-greedy</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N4OA309/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.coursera.org/learn/algorithms-on-graphs</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <loc>https://www.coursera.org/learn/cs-algorithms-theory-machines</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.coursera.org/learn/algorithms-divide-conquer</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.coursera.org/learn/advanced-algorithms-and-complexity</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/</loc>
-    <lastmod>2020-08-31T00:00:00-07:00</lastmod>
+    <loc>https://www.amazon.com/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.coursera.org/learn/algorithms-greedy</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.coursera.org/learn/algorithms-part2</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.amazon.com/Grokking-Algorithms/dp/B07HQYBNYK/</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.coursera.org/learn/algorithms-on-graphs</loc>
+    <lastmod>2020-09-21T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
